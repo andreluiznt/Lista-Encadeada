@@ -3,6 +3,7 @@ Atividade de Lista Encadeada para a disciplina de Estrutura de Dados na Universi
 
 Implemente uma lista encadeada de inteiros, utilizando alocação dinâmica de memória,
 com as seguintes operações:
+
         1. Criação da lista vazia;
         2. Verificar se a lista está vazia;
         3. Obter o tamanho da lista;
